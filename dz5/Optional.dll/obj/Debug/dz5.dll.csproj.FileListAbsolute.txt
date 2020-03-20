@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\dz5\Optional.dll\bin\Debug\Optional.dll.dll
+C:\Users\Lenovo\source\repos\dz5\Optional.dll\bin\Debug\Optional.dll.pdb
+C:\Users\Lenovo\source\repos\dz5\Optional.dll\obj\Debug\dz5.dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\dz5\Optional.dll\obj\Debug\Optional.dll.dll
+C:\Users\Lenovo\source\repos\dz5\Optional.dll\obj\Debug\Optional.dll.pdb
+C:\Users\Lenovo\Desktop\dz5\Optional.dll\bin\Debug\Optional.dll.dll
+C:\Users\Lenovo\Desktop\dz5\Optional.dll\bin\Debug\Optional.dll.pdb
+C:\Users\Lenovo\Desktop\dz5\Optional.dll\obj\Debug\dz5.dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\dz5\Optional.dll\obj\Debug\Optional.dll.dll
+C:\Users\Lenovo\Desktop\dz5\Optional.dll\obj\Debug\Optional.dll.pdb

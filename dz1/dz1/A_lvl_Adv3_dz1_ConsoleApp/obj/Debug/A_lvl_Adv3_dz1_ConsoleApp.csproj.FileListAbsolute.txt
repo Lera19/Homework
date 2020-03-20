@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\bin\Debug\A_lvl_Adv3_dz1_ConsoleApp.exe.config
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\bin\Debug\A_lvl_Adv3_dz1_ConsoleApp.exe
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\bin\Debug\A_lvl_Adv3_dz1_ConsoleApp.pdb
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\bin\Debug\CloudeMath.dll
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\bin\Debug\CloudeMath.pdb
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\obj\Debug\A_lvl_Adv3_dz1_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\obj\Debug\A_lvl_Adv3_dz1_ConsoleApp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\obj\Debug\A_lvl_Adv3_dz1_ConsoleApp.exe
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\A_lvl_Adv3_dz1_ConsoleApp\obj\Debug\A_lvl_Adv3_dz1_ConsoleApp.pdb

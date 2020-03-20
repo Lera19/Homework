@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\bin\Debug\dz3ex1.exe.config
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\bin\Debug\dz3ex1.exe
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\bin\Debug\dz3ex1.pdb
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\bin\Debug\dz3ex1.dll.dll
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\bin\Debug\dz3ex1.dll.pdb
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\obj\Debug\dz3_1ex.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\obj\Debug\dz3_1ex.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\obj\Debug\dz3ex1.exe
+C:\Users\Lenovo\source\repos\dz3_1ex\dz3ex1\obj\Debug\dz3ex1.pdb

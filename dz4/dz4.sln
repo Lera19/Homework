@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz4", "dz4\dz4.csproj", "{487C2F7A-F54F-4A2B-A11E-352D400816E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chocolate.dll", "Chocolate.dll\Chocolate.dll.csproj", "{43E52B76-8D40-4B1B-BC87-EF81319CBFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487C2F7A-F54F-4A2B-A11E-352D400816E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487C2F7A-F54F-4A2B-A11E-352D400816E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487C2F7A-F54F-4A2B-A11E-352D400816E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487C2F7A-F54F-4A2B-A11E-352D400816E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E52B76-8D40-4B1B-BC87-EF81319CBFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E52B76-8D40-4B1B-BC87-EF81319CBFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E52B76-8D40-4B1B-BC87-EF81319CBFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E52B76-8D40-4B1B-BC87-EF81319CBFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9ACA93F-0F5C-4391-A825-BBCA683A2F15}
+	EndGlobalSection
+EndGlobal

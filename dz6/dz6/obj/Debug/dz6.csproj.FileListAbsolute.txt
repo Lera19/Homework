@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\dz6_2\dz6\obj\Debug\dz6.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6.exe.config
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6.exe
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6.pdb
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6_2.dll.dll
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6.dll.dll
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6_2.dll.pdb
+C:\Users\Lenovo\source\repos\dz6_2\dz6\bin\Debug\dz6.dll.pdb
+C:\Users\Lenovo\source\repos\dz6_2\dz6\obj\Debug\dz6.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\dz6_2\dz6\obj\Debug\dz6.exe
+C:\Users\Lenovo\source\repos\dz6_2\dz6\obj\Debug\dz6.pdb

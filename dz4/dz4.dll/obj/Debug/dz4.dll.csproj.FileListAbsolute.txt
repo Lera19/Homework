@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\dz4\dz4.dll\bin\Debug\dz4.dll.dll
+C:\Users\Lenovo\source\repos\dz4\dz4.dll\bin\Debug\dz4.dll.pdb
+C:\Users\Lenovo\source\repos\dz4\dz4.dll\obj\Debug\dz4.dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\dz4\dz4.dll\obj\Debug\dz4.dll.dll
+C:\Users\Lenovo\source\repos\dz4\dz4.dll\obj\Debug\dz4.dll.pdb

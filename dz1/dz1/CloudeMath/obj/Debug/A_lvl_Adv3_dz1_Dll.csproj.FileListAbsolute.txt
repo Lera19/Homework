@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\CloudeMath\bin\Debug\CloudeMath.dll
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\CloudeMath\bin\Debug\CloudeMath.pdb
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\CloudeMath\obj\Debug\A_lvl_Adv3_dz1_Dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\CloudeMath\obj\Debug\CloudeMath.dll
+C:\Users\Lenovo\source\repos\A_lvl_Adv3_dz1\CloudeMath\obj\Debug\CloudeMath.pdb

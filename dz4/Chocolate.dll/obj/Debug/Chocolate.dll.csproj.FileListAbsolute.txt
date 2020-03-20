@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\dz4\Chocolate.dll\obj\Debug\Chocolate.dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\dz4\Chocolate.dll\bin\Debug\Chocolate.dll.dll
+C:\Users\Lenovo\source\repos\dz4\Chocolate.dll\bin\Debug\Chocolate.dll.pdb
+C:\Users\Lenovo\source\repos\dz4\Chocolate.dll\obj\Debug\Chocolate.dll.dll
+C:\Users\Lenovo\source\repos\dz4\Chocolate.dll\obj\Debug\Chocolate.dll.pdb

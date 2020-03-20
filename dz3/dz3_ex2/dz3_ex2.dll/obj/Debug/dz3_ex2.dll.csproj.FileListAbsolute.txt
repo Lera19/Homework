@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\dz3_ex2\dz3_ex2.dll\bin\Debug\dz3_ex2.dll.dll
+C:\Users\Lenovo\source\repos\dz3_ex2\dz3_ex2.dll\bin\Debug\dz3_ex2.dll.pdb
+C:\Users\Lenovo\source\repos\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.dll
+C:\Users\Lenovo\source\repos\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.pdb
+C:\Users\Lenovo\source\repos\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\bin\Debug\dz3_ex2.dll.dll
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\bin\Debug\dz3_ex2.dll.pdb
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.dll
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.pdb
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\bin\Debug\Menu.dll
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\bin\Debug\Menu.pdb
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\dz3_ex2.dll\obj\Debug\dz3_ex2.dll.csproj.CopyComplete

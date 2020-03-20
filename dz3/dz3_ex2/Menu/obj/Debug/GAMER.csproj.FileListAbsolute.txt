@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\Menu\bin\Debug\Menu.dll
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\Menu\bin\Debug\Menu.pdb
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\Menu\obj\Debug\GAMER.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\Menu\obj\Debug\Menu.dll
+C:\Users\Lenovo\Desktop\дз3\dz3_ex2\Menu\obj\Debug\Menu.pdb

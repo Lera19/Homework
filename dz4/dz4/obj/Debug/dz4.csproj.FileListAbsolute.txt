@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\dz4\dz4\obj\Debug\dz4.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\dz4\dz4\bin\Debug\dz4.exe.config
+C:\Users\Lenovo\source\repos\dz4\dz4\bin\Debug\dz4.exe
+C:\Users\Lenovo\source\repos\dz4\dz4\bin\Debug\dz4.pdb
+C:\Users\Lenovo\source\repos\dz4\dz4\obj\Debug\dz4.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\dz4\dz4\obj\Debug\dz4.exe
+C:\Users\Lenovo\source\repos\dz4\dz4\obj\Debug\dz4.pdb
+C:\Users\Lenovo\source\repos\dz4\dz4\bin\Debug\Chocolate.dll.dll
+C:\Users\Lenovo\source\repos\dz4\dz4\bin\Debug\Chocolate.dll.pdb
